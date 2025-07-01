@@ -1,0 +1,6 @@
+1. Make a github repository
+2. you should see a link like this: https://github.com/keeeeeeen/drone25.git
+3. Make a folder whereever you want (I do on my desktop)
+4. git clone https://github.com/keeeeeeen/drone25.git
+
+Now you have a folder on your desktop where you can git push and it should push to the github
