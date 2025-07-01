@@ -1,6 +1,16 @@
+TO SETUP
 1. Make a github repository
 2. you should see a link like this: https://github.com/keeeeeeen/drone25.git
 3. Make a folder whereever you want (I do on my desktop)
 4. git clone https://github.com/keeeeeeen/drone25.git
 
 Now you have a folder on your desktop where you can git push and it should push to the github
+
+TO PUSH
+git add . (For all files) or git add file.extention (for specific files)
+git commit -m "WHATEVER", or git commit and then write whatever message, ctrl+O, :wq,
+git push
+
+SETTING UP A GITIGNORE
+1. In the folder, make a file named .gitignore
+2. add whatever files needed (__pycache__/, etc.) into it and it should grey out when saved
